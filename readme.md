@@ -1,4 +1,4 @@
-# Template for linking your Bouygues Télécom personal account to your google assistant service
+# Template for linking your Bouygues Telecom personal account to your google assistant service
 
 ## This tutorial uses :
 ### . An actions-on-google action consisting in a dialogflow conversation
