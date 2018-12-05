@@ -1,7 +1,6 @@
-# App for linking of a Bouygues Télécom personal account to your google assistant mobile app
+# Template for linking your Bouygues Télécom personal account to your google assistant service
 
 ## This tutorial uses :
-### . Actions-on-google
 ### . An actions-on-google action consisting in a dialogflow conversation
 ### . The dialogflow fulfillment environment.
 
@@ -16,7 +15,7 @@
 Copy the conversation zip file from this repo to Dialogflow from the following window:
 ![](import or export a zip file.PNG?raw=true)
 
-_Optionally, you can recreate your own intents and entities in Dialogflow if you want customised behaviour_
+_Optionally, you can create your own intents and entities in Dialogflow if you want customised behaviour_
 ## Access the Bytel API with some https requests
 Access the Bouygues Télécom Restfull API in Fullfillment Javascript environment by using the code provided in the fullfillment.js and package.json files provided in this repository.
 
