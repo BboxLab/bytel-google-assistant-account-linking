@@ -4,12 +4,11 @@
 ### . An actions-on-google action consisting in a dialogflow conversation
 ### . The dialogflow fulfillment environment.
 
-# Steps for reproducing the account linking:
+# Steps for reproducing the account linking
 ## Fill the Account linking section in Actions on google
 ![](account_creation_section.PNG?raw=true)
 ![](linking_type_section.PNG?raw=true)
 ![](client_information_section.PNG?raw=true)
-![](client_configuration_section.PNG?raw=true)
 
 ## Copy dialogflow conversation to your own action
 Copy the conversation zip file from this repo to Dialogflow from the following window:
